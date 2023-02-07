@@ -9,7 +9,7 @@
 </template>
 
 <script>
-import { ref, reactive } from "@vue/reactivity";
+import { ref } from "@vue/reactivity";
 
 export default {
   setup() {
